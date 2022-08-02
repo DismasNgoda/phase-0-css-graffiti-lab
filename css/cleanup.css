@@ -1,1 +1,17 @@
 /* write your override styles here */
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 10%;
+    left: 5px;
+    width: 900px;
+    height: 600px;
+}
+#tage-3 {
+    image-rendering: auto;
+    margin: 10px;
+    padding: inherit;
+}
+#wall {
+    border-bottom: chocolate;
+    border-radius: 20px;
+}
